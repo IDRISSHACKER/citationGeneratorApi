@@ -24,8 +24,5 @@
   "homepage": "https://github.com/IDRISSHACKER/citationGeneratorApi#readme",
   "devDependencies": {
     "@vercel/node": "^1.13.0"
-  },
-  "dependencies": {
-    "vercel": "^24.0.0"
   }
 }

@@ -1,0 +1,31 @@
+{
+  "name": "citationgeneratorapi",
+  "version": "1.0.0",
+  "description": "serverless for citationGenerator",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDRISSHACKER/citationGeneratorApi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "serverless"
+  ],
+  "author": "IDRISS-HACKER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IDRISSHACKER/citationGeneratorApi/issues"
+  },
+  "homepage": "https://github.com/IDRISSHACKER/citationGeneratorApi#readme",
+  "devDependencies": {
+    "@vercel/node": "^1.13.0"
+  },
+  "dependencies": {
+    "vercel": "^24.0.0"
+  }
+}

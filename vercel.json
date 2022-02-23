@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/api/users.js"
+        },
+        {
+            "src": "/sendMsg",
+            "dest": "/api/sendMsg.js"
+        }
+    ]
+}
